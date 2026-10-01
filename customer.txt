@@ -1,0 +1,2 @@
+print("enter the customer":)
+customer name
